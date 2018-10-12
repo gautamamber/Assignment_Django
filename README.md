@@ -9,8 +9,9 @@ source venv/bin/activate
 To deactivate:
 deactivate
 
-Run:
-pip install -r requirements.txt
+python manage.py runserver 8001
+
+Django Server  Use: 8001
 
 
 
