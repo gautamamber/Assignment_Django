@@ -124,5 +124,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 CORS_ORIGIN_WHITELIST = (
-    'localhost:3200',  # Angular server url
+    'localhost:3200',
 )
